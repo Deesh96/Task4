@@ -6,10 +6,10 @@ public class Ref02 {
 		// TODO Auto-generated method stub
 
 		SimpleM sm = new SimpleM();
-		sm.squareC();
+		sm.squareE();
 		
 		// Getting Values from private members of the simpleM class
-		//s.squareD();
+		//s.squareF();
 		System.out.println("SM : " + sm);
 	}
 

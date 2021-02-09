@@ -12,23 +12,23 @@ public class SimpleM {
 		  this.f = f;
 	  }
 	  
-	  public void squareC() {
+	  public void squareE() {
 		  this.e *= this.e;
 	  }
 	  
-	  private void squareD() {
+	  private void squareF() {
 		  this.f *= this.f;
 	  }
 	  
-	  public float getC() {
+	  public float getE() {
 		  return e;
 	  }
 	  
-	  private void setC(float c) {
+	  private void setE(float e) {
 		  this.e = e;
 	  }
 	  
-	  public float getD() {
+	  public float getF() {
 		  return f;
 	  }
 	  
