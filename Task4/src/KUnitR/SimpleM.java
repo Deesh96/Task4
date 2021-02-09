@@ -7,7 +7,7 @@ public class SimpleM {
 	  
 	  public SimpleM(){}
 	  
-	  public SimpleM(float c, float d) {
+	  public SimpleM(float e, float f) {
 		  this.e = e;
 		  this.f = f;
 	  }
